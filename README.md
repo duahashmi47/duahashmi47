@@ -1,4 +1,3 @@
-# duahshmi47
 # Hi, I'm Dua Noor 👋  
 💻 AI/ML Enthusiast | 🎓 CS Graduate '25 | 🤖 Computer Vision & Deep Learning Explorer  
 
