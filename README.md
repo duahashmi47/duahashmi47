@@ -80,7 +80,7 @@ Recommendation system using NLP-based similarity on actors, searches, and trends
 ---
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/duanoor)  
+- [LinkedIn](linkedin.com/in/dua-noor-9b94b2378)  
 - [Email](mailto:duahashmi47@gmail.com)  
 
 ---
