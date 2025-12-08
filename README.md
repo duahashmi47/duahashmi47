@@ -1,5 +1,5 @@
 # Hi, I'm Dua Noor 👋  
-💻 AI/ML Enthusiast | 🎓 CS Graduate '25 | 🤖 Computer Vision & Deep Learning Explorer  
+💻 AI/ML Enthusiast | IBM Certified Data Scientist | 🎓 CS Graduate '25 | 🤖 Computer Vision & Deep Learning Explorer  
 
 ![](https://komarev.com/ghpvc/?username=duahashmi47&label=Profile+Views)
 
@@ -74,8 +74,8 @@ Recommendation system using NLP-based similarity on actors, searches, and trends
 
 ## 📈 GitHub Stats  
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duahashmi47&layout=compact&theme=tokyonight)  
- ![Dua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duahashmi47&show_icons=true&theme=tokyonight)  
+ ! [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duahashmi47&layout=compact&theme=tokyonight)  
+ ! [Dua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duahashmi47&show_icons=true&theme=tokyonight)  
 
 ---
 
