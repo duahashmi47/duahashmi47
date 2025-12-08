@@ -74,8 +74,8 @@ Recommendation system using NLP-based similarity on actors, searches, and trends
 
 ## 📈 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duahashmi47&layout=compact&theme=tokyonight)  
-![Dua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duahashmi47&show_icons=true&theme=tokyonight)  
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duahashmi47&layout=compact&theme=tokyonight)  
+ ![Dua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duahashmi47&show_icons=true&theme=tokyonight)  
 
 ---
 
