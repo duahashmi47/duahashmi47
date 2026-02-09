@@ -215,7 +215,6 @@ life_philosophy: "My code doesn't always work.. but coffee does"
 <h4>💻 Languages</h4>
 <p>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
-  <a href="https://www.c-sharp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=csharp&theme=dark" alt="C#" title="C#"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/></a>
@@ -227,10 +226,6 @@ life_philosophy: "My code doesn't always work.. but coffee does"
 <h4>🤖 AI & Machine Learning</h4>
 <p>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://skillicons.dev/icons?i=keras&theme=dark" alt="Keras" title="Keras"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib" title="Matplotlib"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn&theme=dark" alt="Seaborn" title="Seaborn"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/></a>
@@ -242,7 +237,6 @@ life_philosophy: "My code doesn't always work.. but coffee does"
   <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
-  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145" target="_blank"><img src="https://skillicons.dev/icons?i=net&theme=dark" alt=".Net" title=".Net"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
@@ -254,7 +248,6 @@ life_philosophy: "My code doesn't always work.. but coffee does"
 <h4>🗄️ Databases</h4>
 <p>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" title="Oracle"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis"/></a>
