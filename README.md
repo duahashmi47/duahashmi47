@@ -1,89 +1,393 @@
-# Hi, I'm Dua Noor 👋  
-💻 AI/ML Enthusiast | IBM Certified Data Scientist | 🎓 CS Graduate '25 | 🤖 Computer Vision & Deep Learning Explorer  
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║
+║                                                                              ║
+║              🚀 AI DEVELOPER • PYTHON ENGINEER • PROBLEM SOLVER 🚀           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-![](https://komarev.com/ghpvc/?username=duahashmi47&label=Profile+Views)
+<div align="center">
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 🎯 ANIMATED HEADER                                                          -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <img src="./assets/header-animation.png" alt="Dua Hashmi - AI Developer" width="100%"/>
+  
+  <br/>
+  
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                           -->
+  <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+  
+  <a href="https://github.com/duahashmi47">
+    <img src="https://komarev.com/ghpvc/?username=duahashmi47&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/duahashmi47?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fduahashmi47&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/duahashmi47?tab=followers">
+    <img src="https://img.shields.io/github/followers/duahashmi47?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/duahashmi47">
+    <img src="https://img.shields.io/github/stars/duahashmi47?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  </a>
+  
+</div>
+<img src="./assets/divider.svg" width="100%"/>
 
----
+<br/>
 
-## 🚀 About Me  
-🎓 Computer Science Graduate (May 2025) — University of Gujrat  
-🧠 Passionate about solving real-world problems using AI/ML & Computer Vision  
-🛠  Hands-on experience in deep learning, segmentation, and model deployment  
-🖥️ Currently exploring AI-powered systems, RAG-based chatbots, and model optimization  
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
----
+<img src="./assets/section-about.svg" width="180"/>
 
-## 🛠️ Tech Stack  
+<br/><br/>
 
-**Languages:**  
-- Python  
-- C#
-- R  
-- SQL  
-- Java  
+<table>
+<tr>
+<td width="55%" valign="top">
 
-**Frameworks & Tools:**  
-- TensorFlow, Keras  
-- OpenCV, SAM, MTCNN  
-- scikit-learn  
-- Flask, .NET  
-- Pandas, NumPy, Matplotlib, Seaborn
+### 🎯 What I Do
 
-**Databases**
-- MySQL
-- Oracle
-- Microsoft SQL Server
-- Mongo DB
+```yaml
+name: Dua Hashmi
+located_in: Pakistan
+current_status: AI Developer| Data Scientist| Machine Learning Engineer
 
-**Other Tools:**  
-- Git, GitHub  
-- VS Code  
-- Linux
-- Jupyter Notebook
-- Jupyter Lab
-- Watson Studio  
+areas_of_expertise:
+  - 🤖 AI & Machine Learning
+  - 🐍 Python Development
+  - 💬 Data Analysis
+  - 📊 Data Visualization
+  - 🌐 Full-Stack Web Development
+  - 🧠 Deep Learning & NLP
 
----
+currently_building:
+  - Next-gen Conversational AI Agents
+  - Personal Portfolio Website
+  - AI Pipelines for Data Analysis
 
-## 💡 Projects  
+life_philosophy: "My code doesn't always work.. but coffee does"
+```
 
-🌿 **Skinalyze – AI-Powered Personalized Skincare Web App**  
-AI-based system for skin type & issue detection, product recommendation, and chatbot assistance.  
-- Built deep learning models (EfficientNetB0, MobileNetV2) for skin type classification.  
-- Integrated MTCNN for face detection & SAM for segmentation.  
-- Developed a domain-specific RAG-based chatbot using Mistral + sentence-transformers.  
-**Stack:** TensorFlow · Keras · Python · SAM · MTCNN · Ollama · Flask · MongoDB  
+</td>
+<td width="45%" valign="top">
 
-🧠 **Parkinson’s Disease Detection**  
-Built ML models (SVM, Random Forest, Logistic Regression) to detect Parkinson’s from vocal biomarkers.  
-**Stack:** Python · scikit-learn · Matplotlib  
+### 🚀 Current Focus
 
-📊 **Customer Churn Prediction**  
-Developed a model to predict customer churn using EDA & classification techniques.  
-**Stack:** Python · Pandas · Seaborn · scikit-learn  
+- 🔬 **Research & Build** advanced AI systems
+- 🤖 **Developing** AI agents
+- 🧠 **Exploring** LLMs & transformers
+- 🌟 **Contributing** to open-source
+- 🏆 **Competing** in hackathons
 
-📈 **Online Retail Sales Analysis**  
-Performed EDA and insights visualization to uncover customer and sales trends.  
-**Stack:** Python · Pandas · NumPy · Matplotlib  
+<br/>
 
-🎬 **Netflix Content Recommender**  
-Recommendation system using NLP-based similarity on actors, searches, and trends.  
-**Stack:** Python · scikit-learn · Pandas  
+### 💡 Quick Facts
 
----
+- 🎓 Competitive programming mindset
+- 🔥 Passionate about automation
+- 🌱 Always learning new technologies
+- ☕ Fueled by coffee & curiosity
 
-## 📈 GitHub Stats  
+</td>
+</tr>
+</table>
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duahashmi47&layout=compact&theme=tokyonight)  
- ![Dua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duahashmi47&show_icons=true&theme=tokyonight)  
+<br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## 📫 Connect with Me  
-- [LinkedIn](linkedin.com/in/dua-noor-9b94b2378)  
-- [Email](mailto:duahashmi47@gmail.com)  
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-🌐 **Portfolio**  
-Coming Soon 🚀
+<img src="./assets/section-trophy.svg" width="200"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/duahashmi47/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=duahashmi47&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ANALYTICS                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-stats.svg" width="220"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/duahashmi47">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duahashmi47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+
+  <br/><br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/duahashmi47">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duahashmi47&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/duahashmi47">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=duahashmi47&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duahashmi47&theme=tokyonight" width="95%" alt="Profile Details"/>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-game.svg" width="280"/>
+
+<br/><br/>
+
+<div align="center">
+  
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+  </picture>
+  
+  <br/>
+  
+  <sub>👾 Watch Pac-Man devour my contributions!</sub>
+  
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-tech.svg" width="180"/>
+
+<br/><br/>
+
+<div align="center">
+
+<!-- 💻 LANGUAGES -->
+<h4>💻 Languages</h4>
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
+  <a href="https://www.c-sharp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=csharp&theme=dark" alt="C#" title="C#"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/></a>
+  <a href="https://en.wikipedia.org/wiki/Java" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
+</p>
+
+<!-- 🤖 AI & MACHINE LEARNING -->
+<h4>🤖 AI & Machine Learning</h4>
+<p>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://skillicons.dev/icons?i=keras&theme=dark" alt="Keras" title="Keras"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" alt="Matplotlib" title="Matplotlib"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=seaborn&theme=dark" alt="Seaborn" title="Seaborn"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/></a>
+</p>
+
+<!-- 🌐 WEB DEVELOPMENT -->
+<h4>🌐 Web Development</h4>
+<p>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
+  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=48145" target="_blank"><img src="https://skillicons.dev/icons?i=net&theme=dark" alt=".Net" title=".Net"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" title="Flask"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3"/></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://skillicons.dev/icons?i=oracle&theme=dark" alt="Oracle" title="Oracle"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/></a>
+</p>
+
+<!-- 🔧 TOOLS & PLATFORMS -->
+<h4>🔧 Tools & Platforms</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" title="Jupyter"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".Net" title=".Net"/></a>
+  <a href="https://www.ibm.com/cloud/watson-studio" target="_blank"><img src="https://skillicons.dev/icons?i=watsonstudio&theme=dark" alt="Watson Studio" title="Watson Studio"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" title="Azure"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" title="Figma"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 CURRENTLY WORKING ON                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### ⚡ Currently Building & Learning
+
+<br/>
+
+<a href="https://github.com/duahashmi47">
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/duahashmi47">
+  <img src="https://img.shields.io/badge/🧠_LLMs-Transformer_Architectures-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+&nbsp;
+<a href="https://github.com/duahashmi47">
+  <img src="https://img.shields.io/badge/💬_AI_Agents-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT WITH ME                                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="./assets/section-connect.svg" width="160"/>
+
+<br/><br/>
+
+<div align="center">
+  
+<a href="https://github.com/duahashmi47" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/dua-noor-hashmi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/duahashmi47" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/duahashmi47" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b26" alt="HackerRank"/>
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/duahashmi47" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-2EC866?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b26" alt="Leetcode"/>
+</a>
+&nbsp;
+<a href="mailto:ndua8801@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 💡 RANDOM DEV QUOTE                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+<br/>
+
+<a href="https://github.com/duahashmi47">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌟 FOOTER                                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=80&section=footer"/>
+  
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📝 END OF README                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
