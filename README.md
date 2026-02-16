@@ -45,7 +45,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img src="./assets/section-about.svg" width="180"/>
 
 <br/><br/>
@@ -75,6 +74,7 @@ currently_building:
   - AI Pipelines for Data Analysis
 
 life_philosophy: "My code doesn't always work.. but coffee does"
+
 ```
 
 </td>
@@ -110,7 +110,6 @@ life_philosophy: "My code doesn't always work.. but coffee does"
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <img src="./assets/section-trophy.svg" width="200"/>
 
 <br/><br/>
@@ -259,9 +258,7 @@ life_philosophy: "My code doesn't always work.. but coffee does"
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" alt="Jupyter" title="Jupyter"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt=".Net" title=".Net"/></a>
-  <a href="https://www.ibm.com/cloud/watson-studio" target="_blank"><img src="https://skillicons.dev/icons?i=watsonstudio&theme=dark" alt="Watson Studio" title="Watson Studio"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
